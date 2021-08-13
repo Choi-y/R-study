@@ -6,7 +6,7 @@
 .RData
 
 # User-specific files
-.Ruserdata
+.Ruserdata R-study.Rproj
 
 # Example code in package build process
 *-Ex.R
@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+.gitignore
